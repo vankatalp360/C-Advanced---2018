@@ -1,0 +1,10 @@
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\03.WriteTextToFile\03.WriteTextToFile\bin\Debug\netcoreapp2.0\03.WriteTextToFile.deps.json
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\03.WriteTextToFile\03.WriteTextToFile\bin\Debug\netcoreapp2.0\03.WriteTextToFile.runtimeconfig.json
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\03.WriteTextToFile\03.WriteTextToFile\bin\Debug\netcoreapp2.0\03.WriteTextToFile.runtimeconfig.dev.json
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\03.WriteTextToFile\03.WriteTextToFile\bin\Debug\netcoreapp2.0\03.WriteTextToFile.dll
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\03.WriteTextToFile\03.WriteTextToFile\bin\Debug\netcoreapp2.0\03.WriteTextToFile.pdb
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\03.WriteTextToFile\03.WriteTextToFile\obj\Debug\netcoreapp2.0\03.WriteTextToFile.csproj.CoreCompileInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\03.WriteTextToFile\03.WriteTextToFile\obj\Debug\netcoreapp2.0\03.WriteTextToFile.AssemblyInfoInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\03.WriteTextToFile\03.WriteTextToFile\obj\Debug\netcoreapp2.0\03.WriteTextToFile.AssemblyInfo.cs
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\03.WriteTextToFile\03.WriteTextToFile\obj\Debug\netcoreapp2.0\03.WriteTextToFile.dll
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\03.WriteTextToFile\03.WriteTextToFile\obj\Debug\netcoreapp2.0\03.WriteTextToFile.pdb

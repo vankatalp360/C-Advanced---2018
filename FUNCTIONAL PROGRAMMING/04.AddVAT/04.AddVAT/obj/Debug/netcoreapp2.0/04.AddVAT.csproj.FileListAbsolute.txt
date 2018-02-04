@@ -1,0 +1,11 @@
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\FUNCTIONAL PROGRAMMING\04.AddVAT\04.AddVAT\bin\Debug\netcoreapp2.0\04.AddVAT.deps.json
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\FUNCTIONAL PROGRAMMING\04.AddVAT\04.AddVAT\bin\Debug\netcoreapp2.0\04.AddVAT.runtimeconfig.json
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\FUNCTIONAL PROGRAMMING\04.AddVAT\04.AddVAT\bin\Debug\netcoreapp2.0\04.AddVAT.runtimeconfig.dev.json
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\FUNCTIONAL PROGRAMMING\04.AddVAT\04.AddVAT\bin\Debug\netcoreapp2.0\04.AddVAT.dll
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\FUNCTIONAL PROGRAMMING\04.AddVAT\04.AddVAT\bin\Debug\netcoreapp2.0\04.AddVAT.pdb
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\FUNCTIONAL PROGRAMMING\04.AddVAT\04.AddVAT\obj\Debug\netcoreapp2.0\04.AddVAT.csprojResolveAssemblyReference.cache
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\FUNCTIONAL PROGRAMMING\04.AddVAT\04.AddVAT\obj\Debug\netcoreapp2.0\04.AddVAT.csproj.CoreCompileInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\FUNCTIONAL PROGRAMMING\04.AddVAT\04.AddVAT\obj\Debug\netcoreapp2.0\04.AddVAT.AssemblyInfoInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\FUNCTIONAL PROGRAMMING\04.AddVAT\04.AddVAT\obj\Debug\netcoreapp2.0\04.AddVAT.AssemblyInfo.cs
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\FUNCTIONAL PROGRAMMING\04.AddVAT\04.AddVAT\obj\Debug\netcoreapp2.0\04.AddVAT.dll
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\FUNCTIONAL PROGRAMMING\04.AddVAT\04.AddVAT\obj\Debug\netcoreapp2.0\04.AddVAT.pdb

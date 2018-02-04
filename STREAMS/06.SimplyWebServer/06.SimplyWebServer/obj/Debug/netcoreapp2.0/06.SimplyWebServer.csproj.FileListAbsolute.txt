@@ -1,0 +1,11 @@
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\06.SimplyWebServer\06.SimplyWebServer\bin\Debug\netcoreapp2.0\06.SimplyWebServer.deps.json
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\06.SimplyWebServer\06.SimplyWebServer\bin\Debug\netcoreapp2.0\06.SimplyWebServer.runtimeconfig.json
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\06.SimplyWebServer\06.SimplyWebServer\bin\Debug\netcoreapp2.0\06.SimplyWebServer.runtimeconfig.dev.json
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\06.SimplyWebServer\06.SimplyWebServer\bin\Debug\netcoreapp2.0\06.SimplyWebServer.dll
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\06.SimplyWebServer\06.SimplyWebServer\bin\Debug\netcoreapp2.0\06.SimplyWebServer.pdb
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\06.SimplyWebServer\06.SimplyWebServer\obj\Debug\netcoreapp2.0\06.SimplyWebServer.csprojResolveAssemblyReference.cache
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\06.SimplyWebServer\06.SimplyWebServer\obj\Debug\netcoreapp2.0\06.SimplyWebServer.csproj.CoreCompileInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\06.SimplyWebServer\06.SimplyWebServer\obj\Debug\netcoreapp2.0\06.SimplyWebServer.AssemblyInfoInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\06.SimplyWebServer\06.SimplyWebServer\obj\Debug\netcoreapp2.0\06.SimplyWebServer.AssemblyInfo.cs
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\06.SimplyWebServer\06.SimplyWebServer\obj\Debug\netcoreapp2.0\06.SimplyWebServer.dll
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\06.SimplyWebServer\06.SimplyWebServer\obj\Debug\netcoreapp2.0\06.SimplyWebServer.pdb

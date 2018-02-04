@@ -1,0 +1,11 @@
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\01.ReadFile\01.ReadFile\bin\Debug\netcoreapp2.0\01.ReadFile.deps.json
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\01.ReadFile\01.ReadFile\bin\Debug\netcoreapp2.0\01.ReadFile.runtimeconfig.json
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\01.ReadFile\01.ReadFile\bin\Debug\netcoreapp2.0\01.ReadFile.runtimeconfig.dev.json
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\01.ReadFile\01.ReadFile\bin\Debug\netcoreapp2.0\01.ReadFile.dll
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\01.ReadFile\01.ReadFile\bin\Debug\netcoreapp2.0\01.ReadFile.pdb
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\01.ReadFile\01.ReadFile\obj\Debug\netcoreapp2.0\01.ReadFile.csprojResolveAssemblyReference.cache
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\01.ReadFile\01.ReadFile\obj\Debug\netcoreapp2.0\01.ReadFile.csproj.CoreCompileInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\01.ReadFile\01.ReadFile\obj\Debug\netcoreapp2.0\01.ReadFile.AssemblyInfoInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\01.ReadFile\01.ReadFile\obj\Debug\netcoreapp2.0\01.ReadFile.AssemblyInfo.cs
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\01.ReadFile\01.ReadFile\obj\Debug\netcoreapp2.0\01.ReadFile.dll
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\01.ReadFile\01.ReadFile\obj\Debug\netcoreapp2.0\01.ReadFile.pdb

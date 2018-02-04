@@ -1,0 +1,10 @@
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\05.ReadingInMemoryString\05.ReadingInMemoryString\bin\Debug\netcoreapp2.0\05.ReadingInMemoryString.deps.json
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\05.ReadingInMemoryString\05.ReadingInMemoryString\bin\Debug\netcoreapp2.0\05.ReadingInMemoryString.runtimeconfig.json
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\05.ReadingInMemoryString\05.ReadingInMemoryString\bin\Debug\netcoreapp2.0\05.ReadingInMemoryString.runtimeconfig.dev.json
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\05.ReadingInMemoryString\05.ReadingInMemoryString\bin\Debug\netcoreapp2.0\05.ReadingInMemoryString.dll
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\05.ReadingInMemoryString\05.ReadingInMemoryString\bin\Debug\netcoreapp2.0\05.ReadingInMemoryString.pdb
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\05.ReadingInMemoryString\05.ReadingInMemoryString\obj\Debug\netcoreapp2.0\05.ReadingInMemoryString.csproj.CoreCompileInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\05.ReadingInMemoryString\05.ReadingInMemoryString\obj\Debug\netcoreapp2.0\05.ReadingInMemoryString.AssemblyInfoInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\05.ReadingInMemoryString\05.ReadingInMemoryString\obj\Debug\netcoreapp2.0\05.ReadingInMemoryString.AssemblyInfo.cs
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\05.ReadingInMemoryString\05.ReadingInMemoryString\obj\Debug\netcoreapp2.0\05.ReadingInMemoryString.dll
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\05.ReadingInMemoryString\05.ReadingInMemoryString\obj\Debug\netcoreapp2.0\05.ReadingInMemoryString.pdb

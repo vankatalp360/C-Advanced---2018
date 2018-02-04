@@ -1,0 +1,10 @@
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\04.CopyingFile\04.CopyingFile\bin\Debug\netcoreapp2.0\04.CopyingFile.deps.json
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\04.CopyingFile\04.CopyingFile\bin\Debug\netcoreapp2.0\04.CopyingFile.runtimeconfig.json
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\04.CopyingFile\04.CopyingFile\bin\Debug\netcoreapp2.0\04.CopyingFile.runtimeconfig.dev.json
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\04.CopyingFile\04.CopyingFile\bin\Debug\netcoreapp2.0\04.CopyingFile.dll
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\04.CopyingFile\04.CopyingFile\bin\Debug\netcoreapp2.0\04.CopyingFile.pdb
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\04.CopyingFile\04.CopyingFile\obj\Debug\netcoreapp2.0\04.CopyingFile.csproj.CoreCompileInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\04.CopyingFile\04.CopyingFile\obj\Debug\netcoreapp2.0\04.CopyingFile.AssemblyInfoInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\04.CopyingFile\04.CopyingFile\obj\Debug\netcoreapp2.0\04.CopyingFile.AssemblyInfo.cs
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\04.CopyingFile\04.CopyingFile\obj\Debug\netcoreapp2.0\04.CopyingFile.dll
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\04.CopyingFile\04.CopyingFile\obj\Debug\netcoreapp2.0\04.CopyingFile.pdb

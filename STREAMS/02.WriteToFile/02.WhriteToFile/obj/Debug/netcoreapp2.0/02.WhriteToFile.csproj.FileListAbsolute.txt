@@ -1,0 +1,11 @@
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\02.WhriteToFile\02.WhriteToFile\bin\Debug\netcoreapp2.0\02.WhriteToFile.deps.json
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\02.WhriteToFile\02.WhriteToFile\bin\Debug\netcoreapp2.0\02.WhriteToFile.runtimeconfig.json
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\02.WhriteToFile\02.WhriteToFile\bin\Debug\netcoreapp2.0\02.WhriteToFile.runtimeconfig.dev.json
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\02.WhriteToFile\02.WhriteToFile\bin\Debug\netcoreapp2.0\02.WhriteToFile.dll
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\02.WhriteToFile\02.WhriteToFile\bin\Debug\netcoreapp2.0\02.WhriteToFile.pdb
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\02.WhriteToFile\02.WhriteToFile\obj\Debug\netcoreapp2.0\02.WhriteToFile.csprojResolveAssemblyReference.cache
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\02.WhriteToFile\02.WhriteToFile\obj\Debug\netcoreapp2.0\02.WhriteToFile.csproj.CoreCompileInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\02.WhriteToFile\02.WhriteToFile\obj\Debug\netcoreapp2.0\02.WhriteToFile.AssemblyInfoInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\02.WhriteToFile\02.WhriteToFile\obj\Debug\netcoreapp2.0\02.WhriteToFile.AssemblyInfo.cs
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\02.WhriteToFile\02.WhriteToFile\obj\Debug\netcoreapp2.0\02.WhriteToFile.dll
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\02.WhriteToFile\02.WhriteToFile\obj\Debug\netcoreapp2.0\02.WhriteToFile.pdb
