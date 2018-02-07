@@ -1,0 +1,11 @@
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\EXERCISE FUNCTIONALPROGRAMMING\10.PredicateParty\10.PredicateParty\bin\Debug\netcoreapp2.0\10.PredicateParty.deps.json
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\EXERCISE FUNCTIONALPROGRAMMING\10.PredicateParty\10.PredicateParty\bin\Debug\netcoreapp2.0\10.PredicateParty.runtimeconfig.json
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\EXERCISE FUNCTIONALPROGRAMMING\10.PredicateParty\10.PredicateParty\bin\Debug\netcoreapp2.0\10.PredicateParty.runtimeconfig.dev.json
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\EXERCISE FUNCTIONALPROGRAMMING\10.PredicateParty\10.PredicateParty\bin\Debug\netcoreapp2.0\10.PredicateParty.dll
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\EXERCISE FUNCTIONALPROGRAMMING\10.PredicateParty\10.PredicateParty\bin\Debug\netcoreapp2.0\10.PredicateParty.pdb
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\EXERCISE FUNCTIONALPROGRAMMING\10.PredicateParty\10.PredicateParty\obj\Debug\netcoreapp2.0\10.PredicateParty.csprojResolveAssemblyReference.cache
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\EXERCISE FUNCTIONALPROGRAMMING\10.PredicateParty\10.PredicateParty\obj\Debug\netcoreapp2.0\10.PredicateParty.csproj.CoreCompileInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\EXERCISE FUNCTIONALPROGRAMMING\10.PredicateParty\10.PredicateParty\obj\Debug\netcoreapp2.0\10.PredicateParty.AssemblyInfoInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\EXERCISE FUNCTIONALPROGRAMMING\10.PredicateParty\10.PredicateParty\obj\Debug\netcoreapp2.0\10.PredicateParty.AssemblyInfo.cs
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\EXERCISE FUNCTIONALPROGRAMMING\10.PredicateParty\10.PredicateParty\obj\Debug\netcoreapp2.0\10.PredicateParty.dll
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\EXERCISE FUNCTIONALPROGRAMMING\10.PredicateParty\10.PredicateParty\obj\Debug\netcoreapp2.0\10.PredicateParty.pdb

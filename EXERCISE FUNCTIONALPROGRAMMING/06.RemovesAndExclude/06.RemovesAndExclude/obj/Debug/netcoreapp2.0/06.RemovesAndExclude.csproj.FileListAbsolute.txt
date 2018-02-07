@@ -1,0 +1,11 @@
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\EXERCISE FUNCTIONALPROGRAMMING\06.RemovesAndExclude\06.RemovesAndExclude\bin\Debug\netcoreapp2.0\06.RemovesAndExclude.deps.json
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\EXERCISE FUNCTIONALPROGRAMMING\06.RemovesAndExclude\06.RemovesAndExclude\bin\Debug\netcoreapp2.0\06.RemovesAndExclude.runtimeconfig.json
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\EXERCISE FUNCTIONALPROGRAMMING\06.RemovesAndExclude\06.RemovesAndExclude\bin\Debug\netcoreapp2.0\06.RemovesAndExclude.runtimeconfig.dev.json
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\EXERCISE FUNCTIONALPROGRAMMING\06.RemovesAndExclude\06.RemovesAndExclude\bin\Debug\netcoreapp2.0\06.RemovesAndExclude.dll
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\EXERCISE FUNCTIONALPROGRAMMING\06.RemovesAndExclude\06.RemovesAndExclude\bin\Debug\netcoreapp2.0\06.RemovesAndExclude.pdb
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\EXERCISE FUNCTIONALPROGRAMMING\06.RemovesAndExclude\06.RemovesAndExclude\obj\Debug\netcoreapp2.0\06.RemovesAndExclude.csprojResolveAssemblyReference.cache
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\EXERCISE FUNCTIONALPROGRAMMING\06.RemovesAndExclude\06.RemovesAndExclude\obj\Debug\netcoreapp2.0\06.RemovesAndExclude.csproj.CoreCompileInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\EXERCISE FUNCTIONALPROGRAMMING\06.RemovesAndExclude\06.RemovesAndExclude\obj\Debug\netcoreapp2.0\06.RemovesAndExclude.AssemblyInfoInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\EXERCISE FUNCTIONALPROGRAMMING\06.RemovesAndExclude\06.RemovesAndExclude\obj\Debug\netcoreapp2.0\06.RemovesAndExclude.AssemblyInfo.cs
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\EXERCISE FUNCTIONALPROGRAMMING\06.RemovesAndExclude\06.RemovesAndExclude\obj\Debug\netcoreapp2.0\06.RemovesAndExclude.dll
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\EXERCISE FUNCTIONALPROGRAMMING\06.RemovesAndExclude\06.RemovesAndExclude\obj\Debug\netcoreapp2.0\06.RemovesAndExclude.pdb

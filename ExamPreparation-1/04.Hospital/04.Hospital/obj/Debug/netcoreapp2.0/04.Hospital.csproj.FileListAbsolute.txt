@@ -1,0 +1,11 @@
+d:\Users\Asus\Documents\Visual Studio 2017\Projects\04.Hospital\04.Hospital\bin\Debug\netcoreapp2.0\04.Hospital.deps.json
+d:\Users\Asus\Documents\Visual Studio 2017\Projects\04.Hospital\04.Hospital\bin\Debug\netcoreapp2.0\04.Hospital.runtimeconfig.json
+d:\Users\Asus\Documents\Visual Studio 2017\Projects\04.Hospital\04.Hospital\bin\Debug\netcoreapp2.0\04.Hospital.runtimeconfig.dev.json
+d:\Users\Asus\Documents\Visual Studio 2017\Projects\04.Hospital\04.Hospital\bin\Debug\netcoreapp2.0\04.Hospital.dll
+d:\Users\Asus\Documents\Visual Studio 2017\Projects\04.Hospital\04.Hospital\bin\Debug\netcoreapp2.0\04.Hospital.pdb
+d:\Users\Asus\Documents\Visual Studio 2017\Projects\04.Hospital\04.Hospital\obj\Debug\netcoreapp2.0\04.Hospital.csprojResolveAssemblyReference.cache
+d:\Users\Asus\Documents\Visual Studio 2017\Projects\04.Hospital\04.Hospital\obj\Debug\netcoreapp2.0\04.Hospital.csproj.CoreCompileInputs.cache
+d:\Users\Asus\Documents\Visual Studio 2017\Projects\04.Hospital\04.Hospital\obj\Debug\netcoreapp2.0\04.Hospital.AssemblyInfoInputs.cache
+d:\Users\Asus\Documents\Visual Studio 2017\Projects\04.Hospital\04.Hospital\obj\Debug\netcoreapp2.0\04.Hospital.AssemblyInfo.cs
+d:\Users\Asus\Documents\Visual Studio 2017\Projects\04.Hospital\04.Hospital\obj\Debug\netcoreapp2.0\04.Hospital.dll
+d:\Users\Asus\Documents\Visual Studio 2017\Projects\04.Hospital\04.Hospital\obj\Debug\netcoreapp2.0\04.Hospital.pdb

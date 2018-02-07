@@ -1,0 +1,11 @@
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\EXERCISE FUNCTIONALPROGRAMMING\13.TriFinction\13.TriFinction\bin\Debug\netcoreapp2.0\13.TriFinction.deps.json
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\EXERCISE FUNCTIONALPROGRAMMING\13.TriFinction\13.TriFinction\bin\Debug\netcoreapp2.0\13.TriFinction.runtimeconfig.json
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\EXERCISE FUNCTIONALPROGRAMMING\13.TriFinction\13.TriFinction\bin\Debug\netcoreapp2.0\13.TriFinction.runtimeconfig.dev.json
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\EXERCISE FUNCTIONALPROGRAMMING\13.TriFinction\13.TriFinction\bin\Debug\netcoreapp2.0\13.TriFinction.dll
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\EXERCISE FUNCTIONALPROGRAMMING\13.TriFinction\13.TriFinction\bin\Debug\netcoreapp2.0\13.TriFinction.pdb
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\EXERCISE FUNCTIONALPROGRAMMING\13.TriFinction\13.TriFinction\obj\Debug\netcoreapp2.0\13.TriFinction.csprojResolveAssemblyReference.cache
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\EXERCISE FUNCTIONALPROGRAMMING\13.TriFinction\13.TriFinction\obj\Debug\netcoreapp2.0\13.TriFinction.csproj.CoreCompileInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\EXERCISE FUNCTIONALPROGRAMMING\13.TriFinction\13.TriFinction\obj\Debug\netcoreapp2.0\13.TriFinction.AssemblyInfoInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\EXERCISE FUNCTIONALPROGRAMMING\13.TriFinction\13.TriFinction\obj\Debug\netcoreapp2.0\13.TriFinction.AssemblyInfo.cs
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\EXERCISE FUNCTIONALPROGRAMMING\13.TriFinction\13.TriFinction\obj\Debug\netcoreapp2.0\13.TriFinction.dll
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\EXERCISE FUNCTIONALPROGRAMMING\13.TriFinction\13.TriFinction\obj\Debug\netcoreapp2.0\13.TriFinction.pdb

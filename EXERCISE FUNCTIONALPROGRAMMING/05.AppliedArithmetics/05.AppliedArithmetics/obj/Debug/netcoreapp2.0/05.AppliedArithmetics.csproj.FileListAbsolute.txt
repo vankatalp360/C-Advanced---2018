@@ -1,0 +1,11 @@
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\EXERCISE FUNCTIONALPROGRAMMING\05.AppliedArithmetics\05.AppliedArithmetics\bin\Debug\netcoreapp2.0\05.AppliedArithmetics.deps.json
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\EXERCISE FUNCTIONALPROGRAMMING\05.AppliedArithmetics\05.AppliedArithmetics\bin\Debug\netcoreapp2.0\05.AppliedArithmetics.runtimeconfig.json
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\EXERCISE FUNCTIONALPROGRAMMING\05.AppliedArithmetics\05.AppliedArithmetics\bin\Debug\netcoreapp2.0\05.AppliedArithmetics.runtimeconfig.dev.json
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\EXERCISE FUNCTIONALPROGRAMMING\05.AppliedArithmetics\05.AppliedArithmetics\bin\Debug\netcoreapp2.0\05.AppliedArithmetics.dll
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\EXERCISE FUNCTIONALPROGRAMMING\05.AppliedArithmetics\05.AppliedArithmetics\bin\Debug\netcoreapp2.0\05.AppliedArithmetics.pdb
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\EXERCISE FUNCTIONALPROGRAMMING\05.AppliedArithmetics\05.AppliedArithmetics\obj\Debug\netcoreapp2.0\05.AppliedArithmetics.csprojResolveAssemblyReference.cache
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\EXERCISE FUNCTIONALPROGRAMMING\05.AppliedArithmetics\05.AppliedArithmetics\obj\Debug\netcoreapp2.0\05.AppliedArithmetics.csproj.CoreCompileInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\EXERCISE FUNCTIONALPROGRAMMING\05.AppliedArithmetics\05.AppliedArithmetics\obj\Debug\netcoreapp2.0\05.AppliedArithmetics.AssemblyInfoInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\EXERCISE FUNCTIONALPROGRAMMING\05.AppliedArithmetics\05.AppliedArithmetics\obj\Debug\netcoreapp2.0\05.AppliedArithmetics.AssemblyInfo.cs
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\EXERCISE FUNCTIONALPROGRAMMING\05.AppliedArithmetics\05.AppliedArithmetics\obj\Debug\netcoreapp2.0\05.AppliedArithmetics.dll
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\EXERCISE FUNCTIONALPROGRAMMING\05.AppliedArithmetics\05.AppliedArithmetics\obj\Debug\netcoreapp2.0\05.AppliedArithmetics.pdb

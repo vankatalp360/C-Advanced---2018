@@ -1,0 +1,11 @@
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\EXERCISE FUNCTIONALPROGRAMMING\08. CustomComparator\08. CustomComparator\bin\Debug\netcoreapp2.0\08. CustomComparator.deps.json
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\EXERCISE FUNCTIONALPROGRAMMING\08. CustomComparator\08. CustomComparator\bin\Debug\netcoreapp2.0\08. CustomComparator.runtimeconfig.json
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\EXERCISE FUNCTIONALPROGRAMMING\08. CustomComparator\08. CustomComparator\bin\Debug\netcoreapp2.0\08. CustomComparator.runtimeconfig.dev.json
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\EXERCISE FUNCTIONALPROGRAMMING\08. CustomComparator\08. CustomComparator\bin\Debug\netcoreapp2.0\08. CustomComparator.dll
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\EXERCISE FUNCTIONALPROGRAMMING\08. CustomComparator\08. CustomComparator\bin\Debug\netcoreapp2.0\08. CustomComparator.pdb
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\EXERCISE FUNCTIONALPROGRAMMING\08. CustomComparator\08. CustomComparator\obj\Debug\netcoreapp2.0\08. CustomComparator.csprojResolveAssemblyReference.cache
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\EXERCISE FUNCTIONALPROGRAMMING\08. CustomComparator\08. CustomComparator\obj\Debug\netcoreapp2.0\08. CustomComparator.csproj.CoreCompileInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\EXERCISE FUNCTIONALPROGRAMMING\08. CustomComparator\08. CustomComparator\obj\Debug\netcoreapp2.0\08. CustomComparator.AssemblyInfoInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\EXERCISE FUNCTIONALPROGRAMMING\08. CustomComparator\08. CustomComparator\obj\Debug\netcoreapp2.0\08. CustomComparator.AssemblyInfo.cs
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\EXERCISE FUNCTIONALPROGRAMMING\08. CustomComparator\08. CustomComparator\obj\Debug\netcoreapp2.0\08. CustomComparator.dll
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\EXERCISE FUNCTIONALPROGRAMMING\08. CustomComparator\08. CustomComparator\obj\Debug\netcoreapp2.0\08. CustomComparator.pdb

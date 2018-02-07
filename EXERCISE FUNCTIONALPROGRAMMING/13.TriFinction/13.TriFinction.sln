@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.TriFinction", "13.TriFinction\13.TriFinction.csproj", "{8C16906D-085E-47C6-8DF0-398672622072}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C16906D-085E-47C6-8DF0-398672622072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C16906D-085E-47C6-8DF0-398672622072}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C16906D-085E-47C6-8DF0-398672622072}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C16906D-085E-47C6-8DF0-398672622072}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {422E0057-7FF2-44E5-A16B-A868E92A6DAB}
+	EndGlobalSection
+EndGlobal

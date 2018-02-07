@@ -1,0 +1,11 @@
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\ExamPreparation-1\02.KnightGame\02.KnightGame\bin\Debug\netcoreapp2.0\02.KnightGame.deps.json
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\ExamPreparation-1\02.KnightGame\02.KnightGame\bin\Debug\netcoreapp2.0\02.KnightGame.runtimeconfig.json
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\ExamPreparation-1\02.KnightGame\02.KnightGame\bin\Debug\netcoreapp2.0\02.KnightGame.runtimeconfig.dev.json
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\ExamPreparation-1\02.KnightGame\02.KnightGame\bin\Debug\netcoreapp2.0\02.KnightGame.dll
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\ExamPreparation-1\02.KnightGame\02.KnightGame\bin\Debug\netcoreapp2.0\02.KnightGame.pdb
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\ExamPreparation-1\02.KnightGame\02.KnightGame\obj\Debug\netcoreapp2.0\02.KnightGame.csproj.CoreCompileInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\ExamPreparation-1\02.KnightGame\02.KnightGame\obj\Debug\netcoreapp2.0\02.KnightGame.AssemblyInfoInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\ExamPreparation-1\02.KnightGame\02.KnightGame\obj\Debug\netcoreapp2.0\02.KnightGame.AssemblyInfo.cs
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\ExamPreparation-1\02.KnightGame\02.KnightGame\obj\Debug\netcoreapp2.0\02.KnightGame.dll
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\ExamPreparation-1\02.KnightGame\02.KnightGame\obj\Debug\netcoreapp2.0\02.KnightGame.pdb
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\ExamPreparation-1\02.KnightGame\02.KnightGame\obj\Debug\netcoreapp2.0\02.KnightGame.csprojResolveAssemblyReference.cache

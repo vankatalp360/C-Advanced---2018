@@ -1,0 +1,11 @@
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\EXERCISE FUNCTIONALPROGRAMMING\11.PartyReservationFilterMode\11.PartyReservationFilterMode\bin\Debug\netcoreapp2.0\11.PartyReservationFilterMode.deps.json
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\EXERCISE FUNCTIONALPROGRAMMING\11.PartyReservationFilterMode\11.PartyReservationFilterMode\bin\Debug\netcoreapp2.0\11.PartyReservationFilterMode.runtimeconfig.json
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\EXERCISE FUNCTIONALPROGRAMMING\11.PartyReservationFilterMode\11.PartyReservationFilterMode\bin\Debug\netcoreapp2.0\11.PartyReservationFilterMode.runtimeconfig.dev.json
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\EXERCISE FUNCTIONALPROGRAMMING\11.PartyReservationFilterMode\11.PartyReservationFilterMode\bin\Debug\netcoreapp2.0\11.PartyReservationFilterMode.dll
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\EXERCISE FUNCTIONALPROGRAMMING\11.PartyReservationFilterMode\11.PartyReservationFilterMode\bin\Debug\netcoreapp2.0\11.PartyReservationFilterMode.pdb
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\EXERCISE FUNCTIONALPROGRAMMING\11.PartyReservationFilterMode\11.PartyReservationFilterMode\obj\Debug\netcoreapp2.0\11.PartyReservationFilterMode.csprojResolveAssemblyReference.cache
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\EXERCISE FUNCTIONALPROGRAMMING\11.PartyReservationFilterMode\11.PartyReservationFilterMode\obj\Debug\netcoreapp2.0\11.PartyReservationFilterMode.csproj.CoreCompileInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\EXERCISE FUNCTIONALPROGRAMMING\11.PartyReservationFilterMode\11.PartyReservationFilterMode\obj\Debug\netcoreapp2.0\11.PartyReservationFilterMode.AssemblyInfoInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\EXERCISE FUNCTIONALPROGRAMMING\11.PartyReservationFilterMode\11.PartyReservationFilterMode\obj\Debug\netcoreapp2.0\11.PartyReservationFilterMode.AssemblyInfo.cs
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\EXERCISE FUNCTIONALPROGRAMMING\11.PartyReservationFilterMode\11.PartyReservationFilterMode\obj\Debug\netcoreapp2.0\11.PartyReservationFilterMode.dll
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\EXERCISE FUNCTIONALPROGRAMMING\11.PartyReservationFilterMode\11.PartyReservationFilterMode\obj\Debug\netcoreapp2.0\11.PartyReservationFilterMode.pdb

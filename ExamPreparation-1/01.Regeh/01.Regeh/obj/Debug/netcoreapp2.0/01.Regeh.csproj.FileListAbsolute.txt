@@ -1,0 +1,11 @@
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\ExamPreparation-1\01.Regeh\01.Regeh\bin\Debug\netcoreapp2.0\01.Regeh.deps.json
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\ExamPreparation-1\01.Regeh\01.Regeh\bin\Debug\netcoreapp2.0\01.Regeh.runtimeconfig.json
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\ExamPreparation-1\01.Regeh\01.Regeh\bin\Debug\netcoreapp2.0\01.Regeh.runtimeconfig.dev.json
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\ExamPreparation-1\01.Regeh\01.Regeh\bin\Debug\netcoreapp2.0\01.Regeh.dll
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\ExamPreparation-1\01.Regeh\01.Regeh\bin\Debug\netcoreapp2.0\01.Regeh.pdb
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\ExamPreparation-1\01.Regeh\01.Regeh\obj\Debug\netcoreapp2.0\01.Regeh.csproj.CoreCompileInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\ExamPreparation-1\01.Regeh\01.Regeh\obj\Debug\netcoreapp2.0\01.Regeh.AssemblyInfoInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\ExamPreparation-1\01.Regeh\01.Regeh\obj\Debug\netcoreapp2.0\01.Regeh.AssemblyInfo.cs
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\ExamPreparation-1\01.Regeh\01.Regeh\obj\Debug\netcoreapp2.0\01.Regeh.dll
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\ExamPreparation-1\01.Regeh\01.Regeh\obj\Debug\netcoreapp2.0\01.Regeh.pdb
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\ExamPreparation-1\01.Regeh\01.Regeh\obj\Debug\netcoreapp2.0\01.Regeh.csprojResolveAssemblyReference.cache

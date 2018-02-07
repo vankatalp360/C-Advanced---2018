@@ -1,0 +1,11 @@
+d:\Users\Asus\Documents\Visual Studio 2017\Projects\03.NumberWors\03.NumberWors\obj\Debug\netcoreapp2.0\03.NumberWars.csprojResolveAssemblyReference.cache
+d:\Users\Asus\Documents\Visual Studio 2017\Projects\03.NumberWors\03.NumberWors\obj\Debug\netcoreapp2.0\03.NumberWars.csproj.CoreCompileInputs.cache
+d:\Users\Asus\Documents\Visual Studio 2017\Projects\03.NumberWors\03.NumberWors\obj\Debug\netcoreapp2.0\03.NumberWars.AssemblyInfoInputs.cache
+d:\Users\Asus\Documents\Visual Studio 2017\Projects\03.NumberWors\03.NumberWors\obj\Debug\netcoreapp2.0\03.NumberWars.AssemblyInfo.cs
+d:\Users\Asus\Documents\Visual Studio 2017\Projects\03.NumberWors\03.NumberWors\bin\Debug\netcoreapp2.0\03.NumberWars.deps.json
+d:\Users\Asus\Documents\Visual Studio 2017\Projects\03.NumberWors\03.NumberWors\bin\Debug\netcoreapp2.0\03.NumberWars.runtimeconfig.json
+d:\Users\Asus\Documents\Visual Studio 2017\Projects\03.NumberWors\03.NumberWors\bin\Debug\netcoreapp2.0\03.NumberWars.runtimeconfig.dev.json
+d:\Users\Asus\Documents\Visual Studio 2017\Projects\03.NumberWors\03.NumberWors\bin\Debug\netcoreapp2.0\03.NumberWars.dll
+d:\Users\Asus\Documents\Visual Studio 2017\Projects\03.NumberWors\03.NumberWors\bin\Debug\netcoreapp2.0\03.NumberWars.pdb
+d:\Users\Asus\Documents\Visual Studio 2017\Projects\03.NumberWors\03.NumberWors\obj\Debug\netcoreapp2.0\03.NumberWars.dll
+d:\Users\Asus\Documents\Visual Studio 2017\Projects\03.NumberWors\03.NumberWors\obj\Debug\netcoreapp2.0\03.NumberWars.pdb
