@@ -1,0 +1,11 @@
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\Exam-11.02.2018\04.HitList\04.HitList\bin\Debug\netcoreapp2.0\04.HitList.deps.json
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\Exam-11.02.2018\04.HitList\04.HitList\bin\Debug\netcoreapp2.0\04.HitList.runtimeconfig.json
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\Exam-11.02.2018\04.HitList\04.HitList\bin\Debug\netcoreapp2.0\04.HitList.runtimeconfig.dev.json
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\Exam-11.02.2018\04.HitList\04.HitList\bin\Debug\netcoreapp2.0\04.HitList.dll
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\Exam-11.02.2018\04.HitList\04.HitList\bin\Debug\netcoreapp2.0\04.HitList.pdb
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\Exam-11.02.2018\04.HitList\04.HitList\obj\Debug\netcoreapp2.0\04.HitList.csprojResolveAssemblyReference.cache
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\Exam-11.02.2018\04.HitList\04.HitList\obj\Debug\netcoreapp2.0\04.HitList.csproj.CoreCompileInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\Exam-11.02.2018\04.HitList\04.HitList\obj\Debug\netcoreapp2.0\04.HitList.AssemblyInfoInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\Exam-11.02.2018\04.HitList\04.HitList\obj\Debug\netcoreapp2.0\04.HitList.AssemblyInfo.cs
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\Exam-11.02.2018\04.HitList\04.HitList\obj\Debug\netcoreapp2.0\04.HitList.dll
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\Exam-11.02.2018\04.HitList\04.HitList\obj\Debug\netcoreapp2.0\04.HitList.pdb

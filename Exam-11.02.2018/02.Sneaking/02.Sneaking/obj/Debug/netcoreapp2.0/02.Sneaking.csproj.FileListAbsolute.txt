@@ -1,0 +1,11 @@
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\Exam-11.02.2018\02.Sneaking\02.Sneaking\bin\Debug\netcoreapp2.0\02.Sneaking.deps.json
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\Exam-11.02.2018\02.Sneaking\02.Sneaking\bin\Debug\netcoreapp2.0\02.Sneaking.runtimeconfig.json
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\Exam-11.02.2018\02.Sneaking\02.Sneaking\bin\Debug\netcoreapp2.0\02.Sneaking.runtimeconfig.dev.json
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\Exam-11.02.2018\02.Sneaking\02.Sneaking\bin\Debug\netcoreapp2.0\02.Sneaking.dll
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\Exam-11.02.2018\02.Sneaking\02.Sneaking\bin\Debug\netcoreapp2.0\02.Sneaking.pdb
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\Exam-11.02.2018\02.Sneaking\02.Sneaking\obj\Debug\netcoreapp2.0\02.Sneaking.csprojResolveAssemblyReference.cache
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\Exam-11.02.2018\02.Sneaking\02.Sneaking\obj\Debug\netcoreapp2.0\02.Sneaking.csproj.CoreCompileInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\Exam-11.02.2018\02.Sneaking\02.Sneaking\obj\Debug\netcoreapp2.0\02.Sneaking.AssemblyInfoInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\Exam-11.02.2018\02.Sneaking\02.Sneaking\obj\Debug\netcoreapp2.0\02.Sneaking.AssemblyInfo.cs
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\Exam-11.02.2018\02.Sneaking\02.Sneaking\obj\Debug\netcoreapp2.0\02.Sneaking.dll
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\Exam-11.02.2018\02.Sneaking\02.Sneaking\obj\Debug\netcoreapp2.0\02.Sneaking.pdb

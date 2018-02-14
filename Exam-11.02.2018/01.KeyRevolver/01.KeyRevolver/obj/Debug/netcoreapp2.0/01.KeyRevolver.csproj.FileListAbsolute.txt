@@ -1,0 +1,11 @@
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\Exam-11.02.2018\01.KeyRevolver\01.KeyRevolver\bin\Debug\netcoreapp2.0\01.KeyRevolver.deps.json
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\Exam-11.02.2018\01.KeyRevolver\01.KeyRevolver\bin\Debug\netcoreapp2.0\01.KeyRevolver.runtimeconfig.json
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\Exam-11.02.2018\01.KeyRevolver\01.KeyRevolver\bin\Debug\netcoreapp2.0\01.KeyRevolver.runtimeconfig.dev.json
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\Exam-11.02.2018\01.KeyRevolver\01.KeyRevolver\bin\Debug\netcoreapp2.0\01.KeyRevolver.dll
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\Exam-11.02.2018\01.KeyRevolver\01.KeyRevolver\bin\Debug\netcoreapp2.0\01.KeyRevolver.pdb
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\Exam-11.02.2018\01.KeyRevolver\01.KeyRevolver\obj\Debug\netcoreapp2.0\01.KeyRevolver.csprojResolveAssemblyReference.cache
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\Exam-11.02.2018\01.KeyRevolver\01.KeyRevolver\obj\Debug\netcoreapp2.0\01.KeyRevolver.csproj.CoreCompileInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\Exam-11.02.2018\01.KeyRevolver\01.KeyRevolver\obj\Debug\netcoreapp2.0\01.KeyRevolver.AssemblyInfoInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\Exam-11.02.2018\01.KeyRevolver\01.KeyRevolver\obj\Debug\netcoreapp2.0\01.KeyRevolver.AssemblyInfo.cs
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\Exam-11.02.2018\01.KeyRevolver\01.KeyRevolver\obj\Debug\netcoreapp2.0\01.KeyRevolver.dll
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\Exam-11.02.2018\01.KeyRevolver\01.KeyRevolver\obj\Debug\netcoreapp2.0\01.KeyRevolver.pdb

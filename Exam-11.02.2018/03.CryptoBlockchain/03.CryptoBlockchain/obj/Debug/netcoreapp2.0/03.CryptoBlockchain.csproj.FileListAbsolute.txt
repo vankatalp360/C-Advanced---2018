@@ -1,0 +1,11 @@
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\Exam-11.02.2018\03.CryptoBlockchain\03.CryptoBlockchain\bin\Debug\netcoreapp2.0\03.CryptoBlockchain.deps.json
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\Exam-11.02.2018\03.CryptoBlockchain\03.CryptoBlockchain\bin\Debug\netcoreapp2.0\03.CryptoBlockchain.runtimeconfig.json
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\Exam-11.02.2018\03.CryptoBlockchain\03.CryptoBlockchain\bin\Debug\netcoreapp2.0\03.CryptoBlockchain.runtimeconfig.dev.json
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\Exam-11.02.2018\03.CryptoBlockchain\03.CryptoBlockchain\bin\Debug\netcoreapp2.0\03.CryptoBlockchain.dll
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\Exam-11.02.2018\03.CryptoBlockchain\03.CryptoBlockchain\bin\Debug\netcoreapp2.0\03.CryptoBlockchain.pdb
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\Exam-11.02.2018\03.CryptoBlockchain\03.CryptoBlockchain\obj\Debug\netcoreapp2.0\03.CryptoBlockchain.csprojResolveAssemblyReference.cache
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\Exam-11.02.2018\03.CryptoBlockchain\03.CryptoBlockchain\obj\Debug\netcoreapp2.0\03.CryptoBlockchain.csproj.CoreCompileInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\Exam-11.02.2018\03.CryptoBlockchain\03.CryptoBlockchain\obj\Debug\netcoreapp2.0\03.CryptoBlockchain.AssemblyInfoInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\Exam-11.02.2018\03.CryptoBlockchain\03.CryptoBlockchain\obj\Debug\netcoreapp2.0\03.CryptoBlockchain.AssemblyInfo.cs
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\Exam-11.02.2018\03.CryptoBlockchain\03.CryptoBlockchain\obj\Debug\netcoreapp2.0\03.CryptoBlockchain.dll
+D:\Users\Asus\Desktop\Проекти\C-Advanced---2018\Exam-11.02.2018\03.CryptoBlockchain\03.CryptoBlockchain\obj\Debug\netcoreapp2.0\03.CryptoBlockchain.pdb
