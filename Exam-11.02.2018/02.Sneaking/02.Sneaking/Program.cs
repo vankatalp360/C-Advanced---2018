@@ -2,9 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace _02.Sneaking
-{
-    class Program
+public class Program
     {
         private static int Rows = 0;
         private static char[][] Board;
@@ -204,4 +202,3 @@ namespace _02.Sneaking
             }
         }
     }
-}
